@@ -40,6 +40,6 @@ Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/priya-palak/) to 
  
  Project Name|Area | Description|Libraries Used
  :------------:|:------------:|:------------:|:-----------:
- :oncoming_automobile: [US Car Accidents Analysis](https://github.com/PriyaPalak/EDA-on-US-Car-Accidents)| Data Cleaning, EDA   |   | Pandas, Matplotlib, Seaborn  |
+ :oncoming_automobile: [US Car Accidents Analysis](https://github.com/PriyaPalak/EDA-on-US-Car-Accidents)| Data Cleaning & EDA   |   | Pandas, Matplotlib, Seaborn  |
  
 ***
