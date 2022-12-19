@@ -19,5 +19,7 @@ Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/priya-palak/) to 
  Project Name| Description|Concepts Used
  :------------:|:------------:|:------------:
 :house:[Data Cleaning on Nashville Housing Data](https://github.com/PriyaPalak/Data-Cleaning-on-Nashville-Housing-Data)| Worked on the Consistency, Uniqueness, Completeness, Relevancy of the Data. Divided a single column containing multiple pieces of information into multiple columns to make it more useful.|Case Statements, CTEs, Finding Duplicates using ROW_NUMBER, Self Joins, Functions like SUBSTRING, CHARINDEX, PARSENAME and REPLACE.
-
-
+:spaghetti: [Danny's Diner](https://github.com/PriyaPalak/8-Week-SQL-Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner)|  |    |
+:pizza: [Pizza Runner](https://github.com/PriyaPalak/8-Week-SQL-Challenge/tree/main/Case%20Study%20%232%20-%20Pizza%20Runner)|    |    |
+:ramen: [Foodie Fi](https://github.com/PriyaPalak/8-Week-SQL-Challenge/tree/main/Case%20Study%20%233%20-%20Foodie-Fi)|    |   |
+:money_with_wings: [Data Bank](https://github.com/PriyaPalak/8-Week-SQL-Challenge/tree/main/Case%20Study%20%234%20-%20Data%20Bank)|   |   |
