@@ -8,9 +8,9 @@ Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/priya-palak/) to 
 
 ## :books: Table of Contents
 
-- [SQL]()
-- [Tableau]()
-- [Python]()
+- [SQL](#sql)
+- [Tableau](#tableau)
+- [Python](#python)
 
  *Click on the project's title (**bold** and blue in colour) to view my projects! Thank you!* ☺️
  
