@@ -24,6 +24,7 @@ Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/priya-palak/) to 
 :ramen: [Foodie Fi](https://github.com/PriyaPalak/8-Week-SQL-Challenge/tree/main/Case%20Study%20%233%20-%20Foodie-Fi)|    |   |
 :money_with_wings: [Data Bank](https://github.com/PriyaPalak/8-Week-SQL-Challenge/tree/main/Case%20Study%20%234%20-%20Data%20Bank)|   |   |
 
+***
 
 # Tableau
 
@@ -32,9 +33,13 @@ Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/priya-palak/) to 
  :hotel: [Hospitality Challenge](https://github.com/PriyaPalak/Hospitality-Challenge) |   |   |
  :truck: [Supply Chain Analytics Challenge](https://github.com/PriyaPalak/Supply-Chain-Analytics-Challenge)|   |   |
  
+ 
+ ***
+ 
  # Python
  
  Project Name| Description|Concepts Used
  :------------:|:------------:|:------------:
  :oncoming_automobile: [EDA on US Car Accidents](https://github.com/PriyaPalak/EDA-on-US-Car-Accidents)|    |   |
  
+***
