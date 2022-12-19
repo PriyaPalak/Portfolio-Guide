@@ -28,10 +28,10 @@ Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/priya-palak/) to 
 
 # Tableau
 
- Project Name| Description|Concepts Used
+ Project Name| Description| Tableau Dashboard 
  :------------:|:------------:|:------------:
- :hotel: [Hospitality Challenge](https://github.com/PriyaPalak/Hospitality-Challenge) |   |   |
- :truck: [Supply Chain Analytics Challenge](https://github.com/PriyaPalak/Supply-Chain-Analytics-Challenge)|   |   |
+ :hotel: [Hospitality Challenge](https://github.com/PriyaPalak/Hospitality-Challenge) |   |  [Link](https://public.tableau.com/app/profile/priya.palak7639/viz/HospitalityChallenge/DashboardInsights) |
+ :truck: [Supply Chain Analytics Challenge](https://github.com/PriyaPalak/Supply-Chain-Analytics-Challenge)|   |  [Link](https://public.tableau.com/app/profile/priya.palak7639/viz/FMCGChallenge/Story1) |
  
  
  ***
