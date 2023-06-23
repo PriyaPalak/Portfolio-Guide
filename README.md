@@ -40,6 +40,6 @@ Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/priya-palak/) to 
  
  Project Name|Area | Description|Libraries Used
  ------------|------------|------------|-----------
- :oncoming_automobile: [US Car Accidents Analysis](https://github.com/PriyaPalak/EDA-on-US-Car-Accidents)| Data Cleaning & EDA   | Analyzing **2.8 million** records of Car Accidents in 49 states of America to find trends, patterns and anomalies in the cities where these accidents happened, their timings, monthly and yearly trends and severity. Also, I try to test this hypothesis - *'Are Car Accidents More Likely to Occur during the Winters?'*   | *pandas, matplotlib, seaborn*  |
- 
+ :oncoming_automobile: [US Car Accidents Analysis](https://github.com/PriyaPalak/EDA-on-US-Car-Accidents)| Data Cleaning & EDA   | Analyzing **2.8 million** records of Car Accidents in 49 states of America to find trends, patterns and anomalies in the cities where these accidents happened, their timings, monthly and yearly trends, and severity. Also, I try to test this hypothesis - *'Are Car Accidents More Likely to Occur during the Winters?'*   | *pandas, matplotlib, seaborn*  |
+ :snowflake: [Scraping GitHub](https://github.com/PriyaPalak/Scraping-GitHub) | Web Scraping | Scraping the *topics* page of GitHub and creating a list of top repositories for each topic   | *requests, beautifulsoup, and pandas* |
 ***
