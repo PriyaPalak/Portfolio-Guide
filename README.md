@@ -12,7 +12,7 @@ Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/priya-palak/) to 
 - [Tableau](#tableau)
 - [Python](#python)
 
- *Click on the project's title (**bold** and blue in color) to view my projects! Thank you!* ☺️
+ *Click on the project's title to view my projects! Thank you!* ☺️
  
  # SQL
  
@@ -22,7 +22,7 @@ Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/priya-palak/) to 
 :spaghetti: [Danny's Diner](https://github.com/PriyaPalak/8-Week-SQL-Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner)|Case Study of a small restaurant in which I answer questions about its customers, their visiting patterns, amount of money they've spent and their favorite menu items. These answers will help the venture deliver a better and more personalized experience to their loyal customers  | Aggregations, Window Functions, Joins, CTEs, Case Statements, and Subqueries   |
 :pizza: [Pizza Runner](https://github.com/PriyaPalak/8-Week-SQL-Challenge/tree/main/Case%20Study%20%232%20-%20Pizza%20Runner)| Case study of a Zomato-like startup where I answer questions related to Pizza Metrics, Runner & Customer Experience, Ingredient Optimisation, and Pricing and Ratings so that the venture can better direct its runners and optimize operations. Also, a significant focus on handling data quality issues.    | Data Type Conversion, Temporary tables, Aggregations, Case Statements, CTEs, Joins, DATE functions like DATEDIFF, DATEPART & DATEADD, Table-valued functions, CROSS APPLY, String Manipulation Functions like STRING_SPLIT, STRING_AGG plus WITHIN GROUP clause & CONCAT_WS   |
 :ramen: [Foodie Fi](https://github.com/PriyaPalak/8-Week-SQL-Challenge/tree/main/Case%20Study%20%233%20-%20Foodie-Fi)| This case study is about a Netflix-type startup but only with cooking shows. The idea is to use the data of this subscription-based digital business to understand its customers' journey and behavior on the platform to make data-driven decisions regarding future investments and new features.   |  Aggregations, Joins, Case Statements, CTEs, Window functions like LAG & LEAD, Data Type Conversions to obtain correct percentages & averages, CONCAT to obtain desired string format |
-:money_with_wings: [Data Bank](https://github.com/PriyaPalak/8-Week-SQL-Challenge/tree/main/Case%20Study%20%234%20-%20Data%20Bank)| Case study of an initiative that combines banking and cloud data storage. Focusses on exploring how this unique model works, how the business is doing, and using data to forecast for future data storage requirements and developments   | Aggregations, Percentile calculation using PERCENTILE_DISC, Case Statements with SUM, using SUM as Window function to calculate running total, CTEs, Joins  |
+:money_with_wings: [Data Bank](https://github.com/PriyaPalak/8-Week-SQL-Challenge/tree/main/Case%20Study%20%234%20-%20Data%20Bank)| Case study of an initiative that combines banking and cloud data storage. Focuses on exploring how this unique model works, how the business is doing, and using data to forecast for future data storage requirements and developments   | Aggregations, Percentile calculation using PERCENTILE_DISC, Case Statements with SUM, using SUM as Window function to calculate running total, CTEs, Joins  |
 :convenience_store: [Data Mart]()|       |         |
 ***
 
@@ -32,7 +32,7 @@ Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/priya-palak/) to 
  ------------|------------|------------
  :hotel: [Hospitality Challenge](https://github.com/PriyaPalak/Hospitality-Challenge) | A 20-year old hotel company is losing market share & revenue due to strategic moves by its new-age competitors. Using its past data, I develop a dashboard and uncover insights about the reasons why the company is losing its business and where can it make improvements to regain market share  |  [Link](https://public.tableau.com/app/profile/priya.palak7639/viz/HospitalityChallenge/DashboardInsights) |
  :truck: [Supply Chain Analytics Challenge](https://github.com/PriyaPalak/Supply-Chain-Analytics-Challenge)| A Gujrat-based FMCG manufacturer is failing to deliver products on time and in full quantities due to supply chain issues, resulting in poor customer service. A dashboard is required to track service levels (mainly OT%, IF% & OTIF%) against targets for each customer to swiftly respond to these issues  |  [Link](https://public.tableau.com/app/profile/priya.palak7639/viz/FMCGChallenge/Story1) |
- :airplane: [Maven Airlines Challenge]() | The company has data on 130k passengers about their demographics, flight details, and satisfaction scores on 14 different facilities. There is also an overall verdict on whether they are satisfied or not. Based on this data, a data-driven strategy is recommended to increase customer satisfaction rate.| [Link](https://github.com/PriyaPalak/MavenAirlinesChallenge)
+ :airplane: [Maven Airlines Challenge](https://github.com/PriyaPalak/MavenAirlinesChallenge) | The company has data on 130k passengers about their demographics, flight details, and satisfaction scores on 14 different facilities. There is also an overall verdict on whether they are satisfied or not. Based on this data, a data-driven strategy is recommended to increase customer satisfaction rate.| [Link](https://github.com/PriyaPalak/MavenAirlinesChallenge)
  
  ***
  
