@@ -30,9 +30,9 @@ Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/priya-palak/) to 
 
  Project Name| Description| Tableau Dashboard 
  ------------|------------|------------
- :hotel: [Hospitality Challenge](https://github.com/PriyaPalak/Hospitality-Challenge) | A 20-year old hotel company is losing market share & revenue due to strategic moves by its new-age competitors. Using its past data, I develop a dashboard and uncover insights about the reasons why company is losing its business and where can it make improvements to regain market share  |  [Link](https://public.tableau.com/app/profile/priya.palak7639/viz/HospitalityChallenge/DashboardInsights) |
+ :hotel: [Hospitality Challenge](https://github.com/PriyaPalak/Hospitality-Challenge) | A 20-year old hotel company is losing market share & revenue due to strategic moves by its new-age competitors. Using its past data, I develop a dashboard and uncover insights about the reasons why the company is losing its business and where can it make improvements to regain market share  |  [Link](https://public.tableau.com/app/profile/priya.palak7639/viz/HospitalityChallenge/DashboardInsights) |
  :truck: [Supply Chain Analytics Challenge](https://github.com/PriyaPalak/Supply-Chain-Analytics-Challenge)| A Gujrat-based FMCG manufacturer is failing to deliver products on time and in full quantities due to supply chain issues, resulting in poor customer service. A dashboard is required to track service levels (mainly OT%, IF% & OTIF%) against targets for each customer to swiftly respond to these issues  |  [Link](https://public.tableau.com/app/profile/priya.palak7639/viz/FMCGChallenge/Story1) |
- 
+ :airplane: [Maven Airlines Challenge]() | The company has data on 130k passengers about their demographics, flight details, and satisfaction scores on 14 different facilities. There is also an overall verdict on whether they are satisfied or not. Based on this data, a data-driven strategy is recommended to increase customer satisfaction rate.| [Link](https://github.com/PriyaPalak/MavenAirlinesChallenge)
  
  ***
  
